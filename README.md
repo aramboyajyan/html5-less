@@ -1,4 +1,4 @@
-# Simple HTML5 template with [LESS](http://lesscss.org/)
+# HTML5 starter template with [LESS](http://lesscss.org/)
 
 Base HTML5 template for quick prototyping. Coming with [jQuery](http://jquery.com), [Modernizr](http://modernizr.com), [Normalize.css](http://necolas.github.com/normalize.css/) and [LESS CSS](http://lesscss.org/).
 
